@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "one-dimensional.C": "cpp"
+        "one-dimensional.C": "cpp",
+        "bi-dimensional.C": "cpp"
     }
 }
